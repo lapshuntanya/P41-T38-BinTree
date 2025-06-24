@@ -17,5 +17,11 @@ int main() {
     tree.insert(12);
 
 
+    auto p = tree.search(72);
+    if(p == nullptr) cout << "Not found!\n";
+    else p->showNode();
+
+    tree.showTree();
+
     return 0;
 }
