@@ -1,0 +1,3 @@
+/Users/lapshuntetiana/CLionProjects/P41-T38-BinTree/cmake-build-debug/CMakeFiles/P41_T38_BinTree.dir
+/Users/lapshuntetiana/CLionProjects/P41-T38-BinTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lapshuntetiana/CLionProjects/P41-T38-BinTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
