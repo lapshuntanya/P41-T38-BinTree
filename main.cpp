@@ -1,6 +1,21 @@
-#include <iostream>
+#include "BinTree.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    BinTree<int> tree;
+
+    tree.insert(14);
+    tree.insert(67);
+    tree.insert(47);
+    tree.insert(7);
+    tree.insert(12);
+    tree.insert(5);
+    tree.insert(45);
+    tree.insert(64);
+    tree.insert(72);
+    tree.insert(79);
+    tree.insert(12);
+
+
     return 0;
 }
